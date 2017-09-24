@@ -1,4 +1,4 @@
-<h1>Terms and conditions</h1>
+ <h1>Terms and conditions</h1>
 
 <p>These terms and conditions ("Terms", "Agreement") are an agreement between Mobile Application Developer ("Mobile Application Developer", "us", "we" or "our") and you ("User", "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the Contact Backup App mobile application and any of its products or services (collectively, "Mobile Application" or "Services").</p>
 
@@ -28,6 +28,7 @@
 
 <h2>Contacting us</h2>
 
-<p>If you have any questions about this Agreement, please contact us.</p>
+<p>If you have any questions about this Agreement, please contact us.
+Check About the App to get contacts.</p>
 
 <p>This document was last updated on September 24, 2017</p>
