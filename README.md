@@ -28,6 +28,7 @@
 
 <h2>Contacting us</h2>
 
-<p>If you have any questions about this Agreement, please contact us.</p>
+<p>If you have any questions about this Agreement, please contact us.
+Check About the App to get contacts.</p>
 
 <p>This document was last updated on September 24, 2017</p>
