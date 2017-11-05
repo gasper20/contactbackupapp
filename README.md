@@ -29,8 +29,8 @@
 <h2>Contacting us</h2>
 
 <p>If you have any questions about this Agreement, please contact us via
-Mobile:  +2347060402221\n
-InstaG:  @iamgasper\n
+Mobile:  +2347060402221<br/>
+Instagram:  @iamgasper<br/>
 Twitter: @thompson2051.</p>
 
 <p>This document was last updated on September 24, 2017</p>
