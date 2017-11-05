@@ -26,6 +26,32 @@
 
 <p>You acknowledge that you have read this Agreement and agree to all its terms and conditions. By using the Mobile Application or its Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the Mobile Application and its Services.</p>
 
+<h1>PRIVACY POLICY</h1>
+
+<p>Your privacy is important to Our App Service. Our Privacy Policy covers how we collect, use, disclose, transfer, and store your information. We hope our policy is straightforward and easy-to-understand. Please take a minute to review the details of our privacy practices below.</p>
+
+<h2>Collection and Use of Non-Personal Information</h2>
+<p>We may collect non-personal information, such as data that does not allow direct association with any specific individual. Non-personal data is collected, used, transferred, and disclosed for a number of purposes. These data improve users’ experience and the overall quality of our services.</p>
+
+<h2>Collection and Use of Personal Information</h2>
+<p>No personal information will be collected when you are using this app.<br/>
+
+When you use our call or social media support services, we collect your correspondence in order to build up a public knowledge base, which will be available to all users of the site. Your correspondence will most likely not be used verbatim, but paraphrased in an FAQ format.
+We use the information collected through this app product: (I) to communicate with you; (II) to process your requests and transactions; (III) to improve the app; (IV) to customize the services and/or products we provide to you; (V) to assist with our product and service development; (VI) to perform marketing analysis; and (VII) for other purposes related to our business.
+</p>
+
+<h2>Transparency and Choice</h2>
+<p>You can also control which social websites you wish to share or upload.</p>
+
+<h2>Third party accounts</h2>
+<p>Our App Service does not store any other third part service passwords. Your account information is not disclosed to this app and you are free to cancel any of your social networking website connections with this app at any time if enabled.</p>
+
+<h2>Enforcement</h2>
+<p>We regularly review our own compliance with our Privacy Policy. If you submit a formal written complaint, we will contact you and try our best to resolve the issue.</p>
+
+<h2>Changes</h2>
+<p>Our Privacy Policy may change occasionally. We will not reduce your rights under this Privacy Policy without providing explicit, advance notice. We will post any privacy policy changes on this page and, in the event of significant changes, we will provide a more prominent notice online.</p>
+
 <h2>Contacting us</h2>
 
 <p>If you have any questions about this Agreement, please contact us via
